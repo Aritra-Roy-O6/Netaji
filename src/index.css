@@ -185,14 +185,16 @@ canvas {
 
 .hero__twig--left {
   width: min(45vw, 700px);
-  top: 52vh;
+  height: min(50vw, 820px);
+  top: 200vh;
   bottom: auto;
   left: 0;
 }
 
 .hero__twig--right {
   width: min(50vw, 820px);
-  top: 58vh;
+  height: min(50vw, 820px);
+  top: 200vh;
   bottom: auto;
   right: 0;
 }
@@ -975,7 +977,7 @@ canvas {
 
   .hero__twig--right {
     width: 84vw;
-    top: 56vh;
+    top: 61vh;
     bottom: auto;
   }
 
